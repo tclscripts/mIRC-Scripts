@@ -10,8 +10,10 @@
 \____/\____/_/ /_/\__/_/   \____/_/                    
                                                        
 Proudly presented by QueenElsa.           Version 2.0
-INSTRUCTIONS: Load into a black REMOTES file. Then right click in any channel to activate.
-FOR HELP: /join #development on Undernet
+INSTRUCTIONS: Load into a blank REMOTES file. Then right click in any channel and select #channel Control Center to activate.
+NOTE: The menu item will change to reflect the name of the channel that is currently active. 
+NEED TO COMMENT?: /join #development on Undernet and type !feedback <whatever you have to ask/say> 
+FOUND A BUG: Open an issue on the git. 
 
 */
 ;Initializate GUI menu hook
